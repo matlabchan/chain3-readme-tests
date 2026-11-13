@@ -2,7 +2,7 @@
 
 test contents
 
-![packer logo](../images/green-bay-packers-logo-transparent.png)
+![packer logo](../images/packers.png)
 
-![tractor image](../images/TractorEnergyComputationModel.png)
+![tractor image](../images/model.png)
 
