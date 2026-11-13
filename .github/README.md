@@ -1,8 +1,7 @@
 # .github README file
 
-test contents
+![tractor image](../images/model.png)
 
 ![packer logo](../images/packers.png)
 
-![tractor image](../images/model.png)
-
+test contents
